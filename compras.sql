@@ -27,7 +27,7 @@ insert into compras (valor, data, observacoes, recebida) values (909.11, '2014-0
 insert into compras (valor, data, observacoes, recebida) values (768.18, '2014-04-10', 'Gasolina viagem Porto Alegre', 1);
 insert into compras (valor, data, observacoes, recebida) values (434, '2014-04-01', 'Rodeio interior de Sao Paulo', 0);
 insert into compras (valor, data, observacoes, recebida) values (115.90, '2014-06-12', 'Dia dos namorados', 0);
-insert into compras (valor, data, observacoes, recebida) values (98, '2014-10-12', 'Dia das crianças', 0);
+insert into compras (valor, data, observacoes, recebida) values (98, '2014-10-12', 'Dia das criancas', 0);
 insert into compras (valor, data, observacoes, recebida) values (253.7, '2014-12-20', 'Natal - presentes', 0);
 insert into compras (valor, data, observacoes, recebida) values (370.15, '2014-12-25', 'Compras de natal', 0);
 insert into compras (valor, data, observacoes, recebida) values (32.09, '2015-07-02', 'Lanchonete', 1);
@@ -35,7 +35,7 @@ insert into compras (valor, data, observacoes, recebida) values (954.12, '2015-1
 insert into compras (valor, data, observacoes, recebida) values (98.7, '2015-02-07', 'Lanchonete', 1);
 insert into compras (valor, data, observacoes, recebida) values (213.5, '2015-09-25', 'Roupas', 0);
 insert into compras (valor, data, observacoes, recebida) values (1245.2, '2015-10-17', 'Roupas', 0);
-insert into compras (valor, data, observacoes, recebida) values (23.78, '2015-12-18', 'Lanchonete do Zé', 1);
+insert into compras (valor, data, observacoes, recebida) values (23.78, '2015-12-18', 'Lanchonete do Ze', 1);
 insert into compras (valor, data, observacoes, recebida) values (576.12, '2015-09-13', 'Sapatos', 1);
 insert into compras (valor, data, observacoes, recebida) values (12.34, '2015-07-19', 'Canetas', 0);
 insert into compras (valor, data, observacoes, recebida) values (87.43, '2015-05-10', 'Gravata', 0);
